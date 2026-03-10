@@ -4,7 +4,7 @@
   <br/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+Learning;Always+Improving" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+Learning;Always+Improving;Solving+Problems" alt="Typing SVG" />
   </a>
 </div>
 
@@ -26,8 +26,8 @@
       <td style="border: none;">
         <h2 align="center">👋 About Me</h2>
         <p align="center">
-          I'm <b>Leandro</b>, a full stack developer from Brazil.<br>
-          I'm just starting out in this world, fueled by a passion for development and a commitment to continuous growth.
+          <b>I don't just write code — I create solutions!</b> 💡<br><br/>
+          I'm <b>Leandro</b>, a <b>Junior Full Stack Developer</b> from Brazil, fueled by a passion for solving problems and a commitment to continuous growth.
         </p>
         <p>
           <blockquote align="left">
@@ -36,20 +36,20 @@
             <b>- Abraham Lincoln</b><br><br>
             <i>And yes, I discovered that quote in a Cbum video.</i>
           </blockquote>
-        </p>
+        </p><br/>
         <p align="center">
           💼 <b>Working at:</b> <a href="https://www.vitao.com.br/">Vitao Alimentos</a><br/>
-          🌱 <b>Learning:</b> PHP, HTML, JavaScript, SQL and Database Management<br/>
+          🌱 <b>Learning:</b> PHP, Laravel, HTML, JavaScript and SQL<br/>
           ⚡ <b>Fun Fact:</b> I think I'm funny — and my code works... well, most of the time.
         </p>
         <h3 align="center">🛠 Tech Stack</h3>
-          <p align="center">
-            <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=php,js,html,laravel&theme=dark" />
-              <br/>
-              <img src="https://skillicons.dev/icons?i=bootstrap,docker,mysql,git&theme=dark" />
-            </a>
-          </p>
+        <p align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=php,js,html,mysql&theme=dark" />
+            <br/>
+            <img src="https://skillicons.dev/icons?i=laravel,bootstrap,docker,git&theme=dark" />
+          </a>
+        </p>
       </td>
     </tr>
   </table>
