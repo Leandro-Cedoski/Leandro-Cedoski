@@ -58,5 +58,15 @@
 <br/>
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leandro-Cedoski/Leandro-Cedoski/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leandro-Cedoski/Leandro-Cedoski/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Leandro-Cedoski/Leandro-Cedoski/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Leandro-Cedoski&color=007acc&style=for-the-badge&label=VISITORS" alt="Visitor Counter" />
 </div>
