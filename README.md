@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20Leandro&descAlignY=51&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20Leandro&descAlignY=51&descAlign=60" width="100%"/>
   
   <br/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+Learning;Always+Improving" alt="Typing SVG" />
   </a>
 </div>
 
@@ -39,21 +39,17 @@
         </p>
         <p align="center">
           💼 <b>Working at:</b> <a href="https://www.vitao.com.br/">Vitao Alimentos</a><br/>
-          🌱 <b>Learning:</b> PHP, HTML, JavaScript, SQL, and Database Management<br/>
+          🌱 <b>Learning:</b> PHP, HTML, JavaScript, SQL and Database Management<br/>
           ⚡ <b>Fun Fact:</b> I think I'm funny — and my code works... well, most of the time.
         </p>
         <h3 align="center">🛠 Tech Stack</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/SQL-CC0000?style=flat-square&logo=sqlite&logoColor=white" />
-          <br/>
-          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-          <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-        </p>
+          <p align="center">
+            <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=php,js,html,laravel&theme=dark" />
+              <br/>
+              <img src="https://skillicons.dev/icons?i=bootstrap,docker,mysql,git&theme=dark" />
+            </a>
+          </p>
       </td>
     </tr>
   </table>
