@@ -58,6 +58,8 @@
 <br/>
 
 <div align="center">
+  <h2>📊 My Contributions</h2>
+  <p><i>Oh no! The snake is eating them! Stop her! 🐍</i></p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leandro-Cedoski/Leandro-Cedoski/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leandro-Cedoski/Leandro-Cedoski/output/github-contribution-grid-snake.svg">
