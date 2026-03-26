@@ -61,9 +61,9 @@
   <h2>📊 My Contributions</h2>
   <p><i>Oh no! The snake is eating them! Stop her! 🐍</i></p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leandro-Cedoski/Leandro-Cedoski/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leandro-Cedoski/Leandro-Cedoski/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Leandro-Cedoski/Leandro-Cedoski/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leandro-Cedoski/Leandro-Cedoski/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leandro-Cedoski/Leandro-Cedoski/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Leandro-Cedoski/Leandro-Cedoski/output/github-contribution-grid-snake.svg?v=1">
   </picture>
 </div>
 
