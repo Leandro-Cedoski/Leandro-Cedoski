@@ -38,7 +38,7 @@
           </blockquote>
         </p><br/>
         <p align="center">
-          💼 <b>Working at:</b> <a href="https://www.vitao.com.br/">Vitao Alimentos</a><br/>
+          💼 <b>Working at:</b> <a href="https://www.vitao.com.br/sobre-nos/">Vitao Alimentos</a><br/>
           🌱 <b>Learning:</b> PHP, Laravel, HTML, JavaScript and SQL<br/>
           ⚡ <b>Fun Fact:</b> I think I'm funny — and my code works... well, most of the time.
         </p>
