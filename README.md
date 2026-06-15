@@ -38,15 +38,15 @@
   
   <p>
     💼 <b>Working at:</b> <a href="https://www.vitao.com.br/sobre-nos/">Vitao Alimentos</a><br/>
-    🌱 <b>Learning:</b> PHP, Laravel, HTML, JavaScript and SQL.<br/>
+    🌱 <b>Learning:</b> PHP, Laravel, Java, Spring Boot, HTML, JavaScript and SQL.<br/>
     ⚡ <b>Fun Fact:</b> I think I'm funny — and my code works... well, most of the time.
   </p>
   
   <h3>🛠 Tech Stack</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=php,js,html,mysql&theme=dark" /><br/>
-      <img src="https://skillicons.dev/icons?i=laravel,bootstrap,docker,git&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=php,laravel,java,js,html&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=bootstrap,docker,git,mysql&theme=dark" />
     </a>
   </p>
 </div>
