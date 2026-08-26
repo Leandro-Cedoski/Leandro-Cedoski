@@ -45,8 +45,8 @@
   <h3>🛠 Tech Stack</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=php,laravel,java,js,html&theme=dark" /><br/>
-      <img src="https://skillicons.dev/icons?i=bootstrap,docker,git,mysql&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,react,ts,js&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=html,bootstrap,mysql,postgres,docker,git,github&theme=dark" />
     </a>
   </p>
 </div>
